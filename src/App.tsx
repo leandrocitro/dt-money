@@ -3,7 +3,7 @@ export function App() {
 
   return (
     <>
-      <h1> Teste </h1>
+      <h1> DT-Money </h1>
     </>
   )
 }
