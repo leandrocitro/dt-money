@@ -38,6 +38,10 @@ strong {
     font-size: 2rem;
 }
 
+span {
+    font-size: 1.2rem;
+}
+
 ${props => props.variant == 'green' && `
     background: ${props.theme ['green-700']};
 `}
