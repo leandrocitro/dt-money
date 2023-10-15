@@ -1,9 +1,13 @@
+import { Transactions } from "./pages/Transactions";
+
 export function App() {
   
 
   return (
     <>
-      <h1> DT-Money </h1>
+    < Transactions />
+    <h1> DT-Money </h1>
+      
     </>
   )
 }
