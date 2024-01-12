@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
+<<<<<<< HEAD
     "download": "^8.0.0",
+=======
+>>>>>>> 2b78343853152db4667e319bdb0d82680029e680
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
